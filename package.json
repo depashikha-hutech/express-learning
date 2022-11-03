@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "start": "nodemon expressbasic.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  },
+  "name": "express-learning",
+  "version": "1.0.0",
+  "main": "expressbasic.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/depashikha-hutech/express-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/depashikha-hutech/express-learning/issues"
+  },
+  "homepage": "https://github.com/depashikha-hutech/express-learning#readme",
+  "description": ""
+}
